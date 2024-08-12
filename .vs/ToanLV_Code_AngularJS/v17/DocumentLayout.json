@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\ToanLV_Code_AngularJS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2661A56E-1DE6-4E0A-8D0E-227571D3FED7}|ToanLV_Code_AngularJS\\ToanLV_Code_AngularJS.csproj|c:\\users\\admin\\downloads\\toanlv_code_angularjs\\toanlv_code_angularjs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2661A56E-1DE6-4E0A-8D0E-227571D3FED7}|ToanLV_Code_AngularJS\\ToanLV_Code_AngularJS.csproj|solutionrelative:toanlv_code_angularjs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661A56E-1DE6-4E0A-8D0E-227571D3FED7}|ToanLV_Code_AngularJS\\ToanLV_Code_AngularJS.csproj|c:\\users\\admin\\downloads\\toanlv_code_angularjs\\toanlv_code_angularjs\\wwwroot\\scripts\\controller\\crudcontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2661A56E-1DE6-4E0A-8D0E-227571D3FED7}|ToanLV_Code_AngularJS\\ToanLV_Code_AngularJS.csproj|solutionrelative:toanlv_code_angularjs\\wwwroot\\scripts\\controller\\crudcontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661A56E-1DE6-4E0A-8D0E-227571D3FED7}|ToanLV_Code_AngularJS\\ToanLV_Code_AngularJS.csproj|c:\\users\\admin\\downloads\\toanlv_code_angularjs\\toanlv_code_angularjs\\wwwroot\\scripts\\services\\crudservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2661A56E-1DE6-4E0A-8D0E-227571D3FED7}|ToanLV_Code_AngularJS\\ToanLV_Code_AngularJS.csproj|solutionrelative:toanlv_code_angularjs\\wwwroot\\scripts\\services\\crudservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "crudService.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ToanLV_Code_AngularJS\\ToanLV_Code_AngularJS\\wwwroot\\Scripts\\Services\\crudService.js",
+              "RelativeDocumentMoniker": "ToanLV_Code_AngularJS\\wwwroot\\Scripts\\Services\\crudService.js",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ToanLV_Code_AngularJS\\ToanLV_Code_AngularJS\\wwwroot\\Scripts\\Services\\crudService.js",
+              "RelativeToolTip": "ToanLV_Code_AngularJS\\wwwroot\\Scripts\\Services\\crudService.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T08:04:43.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "crudController.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ToanLV_Code_AngularJS\\ToanLV_Code_AngularJS\\wwwroot\\Scripts\\Controller\\crudController.js",
+              "RelativeDocumentMoniker": "ToanLV_Code_AngularJS\\wwwroot\\Scripts\\Controller\\crudController.js",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ToanLV_Code_AngularJS\\ToanLV_Code_AngularJS\\wwwroot\\Scripts\\Controller\\crudController.js",
+              "RelativeToolTip": "ToanLV_Code_AngularJS\\wwwroot\\Scripts\\Controller\\crudController.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T08:04:41.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ToanLV_Code_AngularJS\\ToanLV_Code_AngularJS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToanLV_Code_AngularJS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ToanLV_Code_AngularJS\\ToanLV_Code_AngularJS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ToanLV_Code_AngularJS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T07:59:35.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

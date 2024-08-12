@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Your Entities";
+}
+
+<div ng-app="myApp" ng-controller="YourEntityController">
+    <h2 style="color:cadetblue"><strong>Danh sách sản phẩm của hệ thống</strong> </h2>
+
+    <table class="table" style="margin-bottom:110px">
+        <thead>
+            <tr>
+                <th>Mã sản phẩm</th>
+                <th>Tên</th>
+                <th>Mô tả</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="entity in entities">
+                <td>{{ entity.id }}</td>
+                <td>{{ entity.name }}</td>
+                <td>{{ entity.description }}</td>
+                <td>
+                    <button style="background-color : forestgreen ; color: black" ng-click="updateEntity(entity)">Sửa</button>
+                    <button style="background-color : darkred ; color: white" ng-click="deleteEntity(entity.id)">Xóa</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Thêm mới / Chỉnh sửa sản phẩm</h3>
+    <form ng-submit="createEntity()">
+        <div class="form-group">
+            <label for="name"><strong>Tên</strong></label>
+            <input type="text" id="name" ng-model="newEntity.name" class="form-control" required />
+            <h1 style="margin:20px"></h1>
+            <label for="description"><strong>Mô tả</strong></label>
+            <input type="text" id="description" ng-model="newEntity.description" class="form-control" required />
+        </div>
+        <button style="margin-top:50px" type="submit" class="btn btn-primary">Thêm mới</button>
+    </form>
+</div>
+
+@* / Nhúng angular js/ *@
+<script src="~/scripts/angular.min.js"></script>
+<script src="~/scripts/app.js"></script>
+<script src="~/scripts/controller/crudcontroller.js"></script>
+<script src="~/scripts/services/crudservice.js"></script>
